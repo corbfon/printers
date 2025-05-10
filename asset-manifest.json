@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/printers/static/css/main.2a1ede8a.css",
-    "main.js": "/printers/static/js/main.f0ece059.js",
+    "main.js": "/printers/static/js/main.0977ad86.js",
     "index.html": "/printers/index.html",
     "main.2a1ede8a.css.map": "/printers/static/css/main.2a1ede8a.css.map",
-    "main.f0ece059.js.map": "/printers/static/js/main.f0ece059.js.map"
+    "main.0977ad86.js.map": "/printers/static/js/main.0977ad86.js.map"
   },
   "entrypoints": [
     "static/css/main.2a1ede8a.css",
-    "static/js/main.f0ece059.js"
+    "static/js/main.0977ad86.js"
   ]
 }
